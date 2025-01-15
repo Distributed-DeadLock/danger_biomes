@@ -4,7 +4,7 @@
 
 This luanti/minetest mod adds 4 dangerous biomes.
 
-Using blocks from the minetest_game, the ethereal-, mosecons- & moremesecons- mods, 
+Using blocks from the minetest_game, the ethereal-, mesecons- & moremesecons- mods, 
 this mod adds 4 biomes with deadly dangers.
 
 + Icepoke 
