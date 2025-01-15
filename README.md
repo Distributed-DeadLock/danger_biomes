@@ -1,6 +1,5 @@
 # danger_biomes
  ## Danger Biomes
-----------
 
 This luanti/minetest mod adds 4 dangerous biomes.
 
