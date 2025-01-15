@@ -38,6 +38,7 @@ this mod adds 4 biomes with deadly dangers.
 -----------
  
 License: Code: MIT
+
 Mod dependencies: default, flowers, stairs, fire, tnt, ethereal, mesecons, mesecons_detector, moremesecons_teleporter
 
 Author: DeadLock
