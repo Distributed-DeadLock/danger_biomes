@@ -7,22 +7,26 @@ This luanti/minetest mod adds 4 dangerous biomes.
 Using blocks from the minetest_game, the ethereal-, mesecons- & moremesecons- mods, 
 this mod adds 4 biomes with deadly dangers.
 
-+ Icepoke 
++ ### Icepoke 
+
 	a cold-wet biome made of snow & ice covered with quicksand-traps, the large ones lead to lava-pools.
  ![Icepoke](screenshots/Icepoke.png)
  
-+ Sweatplane 
++ ### Sweatplane 
+
 	a hot-wet biome made of dry-dirt, coral & water-puddles covered with drowning-traps, 
 	which teleport you into water-filled enclosures if you come to near.
 	Because of the dry-dirt turning to "normal"-dirt near the water-puddles, 
 	this biome can be slowly "taken over" by neighbouring biomes, making it more difficult to spot the danger.
  ![Sweatplane](screenshots/Sweatplane.png)
 
-+ Lavaflood 
++ ### Lavaflood 
+
 	a hot-dry biome, just lava flowing over quicksand. Deadly.
  ![Lavaflood](screenshots/Lavaflood.png)
 
-+ Blastlands 
++ ### Blastlands 
+
 	a cold-dry biome made of permafrost, coal & baked clay, filled with explosive traps.
 	Naturally spawning black candles lure in players at night with friendly light, but 
 	day & night this biome is an explosive danger. 
